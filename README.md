@@ -8,7 +8,9 @@ Das bedeutet nich zwangsläufig, dass jeder sich in jedem seiner persönlich wic
 
 Wer das also gerne tun möchte, wer Fragen hat, Fehler sieht, Vorschläge machen möchte, der kann gerne für bestimmte Textstellen Änderungen oder Ergänzungen vorschlagen. Hierfür kann man auf [https://github.com/sebulino/Strategie/issues](https://github.com/sebulino/Strategie/issues) ein "Issue" erstellen, mit den entsprechenden Kommentaren. Wer etwas vertrauter im Umgang mit Github ist, der kann im Repo [https://github.com/sebulino/Strategie](https://github.com/sebulino/Strategie) direkt Änderungen in der Datei vornehmen, indem man auf den Stift in der Menüleiste klickt und direkt den Text editiert. Anschließend sendet man die Bitte, diesen Text zu übernehmen, indem man auf den Button "New Pull Request" drückt.
 
+Und natürlich kann man mir auch wie immer einfach eine email senden: sebastian.alscher ät piratenpartei.de.
+
 Ich freue mich über aktive Mitarbeit und sage bereits jetzt VIELEN DANK!
 
-Sebastian
 
+Sebastian
