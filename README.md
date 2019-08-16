@@ -6,9 +6,13 @@ Denn die PIRATEN, das ist unser aller Arbeit, das ist unser aller Baby. Nur mit 
 
 Das bedeutet nich zwangsläufig, dass jeder sich in jedem seiner persönlich wichtigsten Punkte in der Partei wiederfinden wird. Schon alleine weil wir demokratischen Regeln folgen und wir ein mindestmaß an Qualitätssicherung betreiben müssen. Aber es bedeutet, dass sich jeder einbringen kann und Vorschläge machen kann, wie wir uns als Partei "bewegen".
 
-Wer das also gerne tun möchte, wer Fragen hat, Fehler sieht, Vorschläge machen möchte, der kann sich gern bei diesem GitBook anmelden und für bestimmte Textstellen Änderungen oder Ergänzungen vorschlagen.  
+Wer das also gerne tun möchte, wer Fragen hat, Fehler sieht, Vorschläge machen möchte, der kann gerne für bestimmte Textstellen Änderungen oder Ergänzungen vorschlagen. Hierfür kann man auf https://github.com/sebulino/Strategie/issues ein "Issue" erstellen, mit den entsprechenden Kommentaren. 
+Wer etwas vertrauter im Umgang mit Github ist, der kann im Repo https://github.com/sebulino/Strategie direkt Änderungen in der Datei vornehmen, indem man auf den Stift in der Menüleiste klickt und direkt den Text editiert. Anschließend sendet man die Bitte, diesen Text zu übernehmen, indem man auf den Button "New Pull Request" drückt. 
+
+Ich freue mich über aktive Mitarbeit und sage bereits jetzt VIELEN DANK!
 
 
+Sebastian
 
 
 
