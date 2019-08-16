@@ -28,7 +28,7 @@ Insgesamt muss eine Positivdefinition der Positionierung der Piratenpartei erfol
 
 ### TODO 01 - Kommunikation
 
-* Der Bundesvorstand bzw. die Beauftragten erstellen eine Kommunikations-Strategie bis \_\_\_
+* Erstellen einer Kommunikations-Strategie bis \_\_\_
 * Besprechen der Strategie mit der BundesPR-Gruppe
 * Besprechen der Strategie mit den Landes-PolGefs
 * Besprechen der Strategie mit den AGs

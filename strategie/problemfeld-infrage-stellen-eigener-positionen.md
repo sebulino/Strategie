@@ -10,7 +10,7 @@ Auf jeden Fall muss unterschieden werden, was wir wirklich in einem Programm bra
 
 ### TODO 11 - Überarbeitung des Programms
 
-* Entscheidung einer Strategie durch den Bundesvorstand bis \_\_\_
+* Entscheidung einer Vorgehensweise durch den Bundesvorstand bis \_\_\_
 * Diskussion mit den Landesverbänden
 * Diskussion der Pläne im Dicken Engel
 * Ausschreibung eines Team für die Umsetzung

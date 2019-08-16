@@ -8,7 +8,7 @@ Erfahrungsgemäß liegt hierbei die Aufgabe darin, den Mitgliedern klar zu mache
 
 ### TODO 04 - Kommunikations-Schwerpunkte
 
-* Bundesvorstand: Klärung der Kommunikations-Schwerpunkte zur Stärkung der Positionierung in der Parteienlandschaft bis \_\_\_
+* Klärung der Kommunikations-Schwerpunkte zur Stärkung der Positionierung in der Parteienlandschaft bis \_\_\_
 * Aussprache und Diskussion auf Landesvorstandstreffen
 * Aussprache und Diskussion auf Bundesparteitag
 * Umsetzung durch Öffentlichkeitsarbeit
