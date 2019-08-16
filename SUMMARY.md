@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Präambel](README.md)
+* [Wie man mit diesem Dokument arbeitet](README.md)
 * [Einleitung](einleitung.md)
 * [Unsere Werte](unsere-werte.md)
 * [Mission](mission.md)

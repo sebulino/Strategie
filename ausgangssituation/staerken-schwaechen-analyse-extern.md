@@ -1,6 +1,8 @@
 # Stärken-Schwächen-Analyse - extern
 
-> _Arbeitshinweis: Hierfür sind nur die Aussagen Partei-Externer zu verwenden! Keine Spekulation von Piraten, egal ob BuVo oder Basismitglieder._
+{% hint style="warning" %}
+Arbeitshinweis: Hierfür sind nur die Aussagen Partei-Externer zu verwenden! Keine Spekulation von Piraten, egal ob BuVo oder Basismitglieder.
+{% endhint %}
 
 ## Stärken
 
