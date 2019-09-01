@@ -10,6 +10,8 @@ Wer das also gerne tun möchte, wer Fragen hat, Fehler sieht, Vorschläge machen
 
 {% hint style="success" %}
 Und natürlich kann man auch einfach eine Email senden an sebastian.alscher ät piratenpartei.de.
+
+Um die Arbeit zu erleichtern wäre es nett, die Betreffzeile mit "STRATEGIE: " zu beginnen, und das Thema bzw den Wunsch oder die Idee dann in die Betreffzeile zu schreiben. 
 {% endhint %}
 
 Ich freue mich über aktive Mitarbeit und sage bereits jetzt VIELEN DANK!
