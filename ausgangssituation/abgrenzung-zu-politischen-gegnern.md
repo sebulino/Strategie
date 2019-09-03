@@ -15,10 +15,11 @@ Technikaffines Image, wirtschaftsliberal. Sie haben mit ihren Angriffen auf die 
 ## Die Grünen
 
 Da sich das allgemeine Narrativ hin zu den Schwerpunktthemen Ökologie und Nachhaltigkeit verschoben hat, und Fridays-For-Future in der Hand der Grünen ist, sind sie derzeit unangreifbar. Moderne Konzepte bzw, eine progressive Weiterentwicklung bisheriger Lösungen für bestehende Probleme scheinen aber nicht gewollt - hier können wir uns durch ein Nach-vorne-Stellen von technischen Lösungen und Alternativen abgrenzen und angreifen, ohne Sympathien zu verspielen. Dem Bevormundenden stellen wir ein Setzen von Rahmenbedingungen entgegen, in denen sich der Mensch frei entfalten und ausleben kann.
+Die Grünen haben sich mal als freiheitliche und basisdemokratische Partei geriert, aber diese Ideale aufgegeben. Den Wählern ist das zur Zeit egal, kann sich ändern. Dies ist die Nische, die wir pflegen müssen. Das hat anfangs auch viele Wähler begeistert: Mitmachen, Basisdemokratie...
 
 ## Die Linken
 
-Die Linken sind derzeit ein Sammelbecken am linken Rand und stagnieren bzgl der Wählerzahlen. Im Gegensatz zu ihnen ist unser Blick auf den Menschen ein gänzlich anderer. Wir sehen den Menschen als Individuum und stehen für die Ermächtigung des Menschen, sich aus seiner Situation heraus zu verändern, wenn er dies möchte. Für sie gilt das Paradigma „Der Staat zahlt alles.“. Von dieser Partei sehe ich derzeit keine aufsehenerregenden Impulse kommen. Gleichermaßen erscheinen sie ungefährlich, da es mittlerweile kaum Überschneidungen zur Piratenpartei gibt, die zuletzt ihren Schwerpunkt im Digitalen Wandel betonte.
+Die Linken sind derzeit ein Sammelbecken am linken Rand und stagnieren bzgl der Wählerzahlen. Im Gegensatz zu ihnen ist unser Blick auf den Menschen ein gänzlich anderer. Wir sehen den Menschen als Individuum und stehen für die Ermächtigung des Menschen, sich aus seiner Situation heraus zu verändern, wenn er dies möchte. Für sie gilt das Paradigma „Der Staat zahlt alles.“. Von dieser Partei sehe ich derzeit keine aufsehenerregenden Impulse kommen. Gleichermaßen erscheinen sie ungefährlich, da es mittlerweile kaum Überschneidungen zur Piratenpartei gibt, die zuletzt ihren Schwerpunkt im Digitalen Wandel und in bürgerlichen Freiheitsrechten betonte.
 
 ## AfD
 
@@ -28,5 +29,5 @@ Da die AfD gegen das Establishment ist, nutzen viele Bürger diese als Möglichk
 
 ## DIE PARTEI
 
-Die Rolle der DIE PARTEI entspricht der des Hofnarren. Der Anspruch an politische Lösungen ist nichtexistent, und dem wird die Partei auch gerecht. Attraktiv erscheint die Partei vor allem denjenigen, die hier den Stil der alten Piratenpartei sehen oder vermissen, der im flapsigen Stil kritisiert hat. Anders sind wir klar in unseren politischen Idealismus und dem Streben bzw. Sehnen nach Veränderung.
+Die Rolle der DIE PARTEI entspricht der des Hofnarren. Der Anspruch an politische Lösungen ist nichtexistent, und dem wird die Partei auch gerecht. Attraktiv erscheint die Partei vor allem denjenigen, die hier den Stil der alten Piratenpartei sehen oder vermissen, der im flapsigen Stil kritisiert hat. Anders sind wir klar in unseren politischen Idealismus und dem Streben bzw. Sehnen nach Veränderung. 
 
