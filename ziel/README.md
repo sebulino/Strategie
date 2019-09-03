@@ -6,7 +6,7 @@ Für die Partei besteht damit zum ersten Mal die Möglichkeit, auf Bundesebene a
 
 Auf Landesebene hat die Piratenpartei Wahlen in
 
-* Brandenburg und Sachsen, September 2019
+* ~~Brandenburg und Sachsen, September 2019~~
 * Thüringen, Oktober 2019
 * Hamburg, voraussichtlich Frühjahr 2020
 * Baden-Württemberg, voraussichtlich Frühjahr 2021

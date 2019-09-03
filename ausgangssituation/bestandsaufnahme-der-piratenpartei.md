@@ -6,19 +6,19 @@ Seit Beginn des Jahres 2019 gab es Eintritte von etwa 600 Parteimitgliedern \(St
 
 ## Abgeordnete in verschiedenen Ebenen
 
-Die Piratenpartei ist nicht im Bundestag vertreten. Die Piratenpartei ist in keinem Landesparlament vertreten. In Kommunalparlamenten haben wir etwa 200 Piraten[\[4\]]().
+Die Piratenpartei ist nicht im Bundestag vertreten. Die Piratenpartei ist in keinem Landesparlament vertreten. In Kommunalparlamenten haben wir etwa 200 Piraten.
 
-Die letzten Wahlergebnisse in Land/Bund/Europa lagen bei etwa 0,5% \(Landtagswahlen Hessen und Bayern 2018, sowie Bundestagswahl 2017\). Bei der Europawahl im Mai 2019 erzielte die Partei 0,7%, so dass Patrick Breyer ins Europaparlament einzog. Dort sitzt er gemeinsam mit drei tschechischen Piraten.
+Bei der Bundestagwahl 2017 wählten 0,5% der Wähler mit der Zweitstimme die Piratenpartei. Bei der Europawahl im Mai 2019 erzielte die Partei 0,7%, so dass Patrick Breyer ins Europaparlament einzog. Dort sitzt er gemeinsam mit drei tschechischen Piraten. Bei der Landtagswahl in Sachsen erreichten die PIRATEN 0,3%, in Brandenburg 0,7% der Zweitstimmen \(beide September 2019\). 
 
 ## Sichtbarkeit nach außen
 
-Für die Piratenpartei sitzen etwas 200 Mandatsträger in den kommunalen Parlamenten[\[5\]](). Über deren Leistungen vor Ort wird verhältnismäßig wenig berichtet. Erfolge in der Politik vor Ort werden lokal wie darüber hinaus selten bekannt.
+Für die Piratenpartei sitzen etwas 200 Mandatsträger in den kommunalen Parlamenten. Über deren Leistungen vor Ort wird verhältnismäßig wenig berichtet. Erfolge in der Politik vor Ort werden lokal wie darüber hinaus selten bekannt.
 
 Skandale der Partei aus der Vergangenheit rücken aus dem Fokus. Julia Redas Parteiaustritt wurde in Teilen der für den Wahlkampf adressierten Milieus wahrgenommen und verursachte Schaden für die Partei. Außerhalb dieser Milieus ist das der breiten Bevölkerung jedoch im wesentlichen entgangen. Dennoch gibt es, bedingt durch Medienöffentlichkeit zu bestimmten Ereignissen in der Vergangenheit, einen Nachhall in der Wahrnehmung als Chaoten, die zu fehlendem Vertrauen in der Umsetzungsfähigkeit unserer Vorschläge - und damit Unwählbarkeit - führt.
 
 ## Kompetenzen
 
-Die Piratenpartei wird auf Bundesebene momentan in keinem klassischen Politikbereich[\[6\]]() als Impulsgeber wahrgenommen. Dies wird durch geringe Berichterstattung bzw. fehlende mediale Präsenz verstärkt.
+Die Piratenpartei wird auf Bundesebene momentan in keinem klassischen Politikbereich als Impulsgeber wahrgenommen. Dies wird durch geringe Berichterstattung bzw. fehlende mediale Präsenz verstärkt.
 
 Kompetenz wird uns im Bereich “Digitales” zugeschrieben, allerdings gibt es keine partei-eigene oder parteinahe Initiative, die sich im Namen der Piratenpartei auf Bundesebene für eine bestimmte Veränderung im Austausch mit Externen aktiv einsetzt.
 
