@@ -43,4 +43,6 @@
 
 * Entfernung vom thematischen Ursprung der Piratenpartei führt zu weiterer Abwanderung von Mitgliedern
 * Verselbständigung von AGs, die ihre eigenen Interessen verfolgen
+* Amtsträger können sich versucht fühlen, mehr Kompetenzen an sich zu reißen und weniger Transparenz zu bieten
+
 
