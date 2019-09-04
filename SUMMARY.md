@@ -12,6 +12,7 @@
   * [Abgrenzung zu politischen Gegnern](ausgangssituation/abgrenzung-zu-politischen-gegnern.md)
   * [Stärken-Schwächen-Analyse - extern](ausgangssituation/staerken-schwaechen-analyse-extern.md)
   * [Stärken-Schwächen-Analyse - intern](ausgangssituation/staerken-schwaechen-analyse-intern.md)
+  * [Zielgruppenanalyse](ausgangssituation/zielgruppenanalyse.md)
   * [Entwicklung der Mitgliederzahlen](ausgangssituation/entwicklung-der-mitgliederzahlen.md)
   * [Entwicklung der Beitragseinnahmen im Bundesverband](ausgangssituation/entwicklung-der-beitragseinnahmen-im-bundesverband.md)
 * [Ziel](ziel/README.md)
