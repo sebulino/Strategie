@@ -22,6 +22,8 @@ Arbeitshinweis: Hierfür sind nur die Aussagen Partei-Externer zu verwenden! Kei
 * Lediglich Reduzierung auf das "SaveYourInternet-Thema", was ist mit dem Rest des Europa-Wahl-Programmes? In der Öffentlichkeit kommt davon nichts an &gt; Breyer wird aktuell auch nur in dem o.g. Kontext wahrgenommen
 * Fehlende Verknüpfung zwischen Logo und Slogan, hier kann keine sinnstiftende Verbindung hergestellt werden, da insbesondere das Wort "Piraten" im deutschen Sprachgebrauch nicht positiv besetzt ist, außer wild-romantisch im Zusammenhang mit Abenteuer
 * Thematische Unbestimmtheit?
+* Unklarheit, wofür die Piraten genau stehen: irgendwas mit Digitalisierung, irgendwas mit Urheberrecht. Vielen Leuten ist das zu abstrakt und zu fern
+* Unsere Kernthemen Freiheit, Transparenz, Teilhabe sind vielen zu abstrakt und zu fern
 
 ## Gelegenheiten
 
