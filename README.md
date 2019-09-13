@@ -14,6 +14,10 @@ Und natürlich kann man auch einfach eine Email senden an sebastian.alscher ät 
 Um die Arbeit zu erleichtern wäre es nett, die Betreffzeile mit "STRATEGIE: " zu beginnen, und das Thema bzw den Wunsch oder die Idee dann in die Betreffzeile zu schreiben. 
 {% endhint %}
 
+{% hint style="warning" %}
+Bitte vergewissere dich zuvor, dass die gleiche Frage/Bitte/Aussage nicht bereits von jemand anderem eingetragen wurde.
+{% endhint %}
+
 Ich freue mich über aktive Mitarbeit und sage bereits jetzt VIELEN DANK!
 
 Sebastian
