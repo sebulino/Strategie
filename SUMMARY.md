@@ -5,7 +5,6 @@
 * [Unsere Werte](unsere-werte.md)
 * [Mission](mission.md)
 * [Vision](vision.md)
-* [Anhang: Aufgaben](anhang-aufgaben.md)
 * [Ausgangssituation](ausgangssituation/README.md)
   * [Bestandsaufnahme der Piratenpartei](ausgangssituation/bestandsaufnahme-der-piratenpartei.md)
   * [Bestandsaufnahme der politischen Landkarte](ausgangssituation/bestandsaufnahme-der-politischen-landkarte.md)
@@ -28,4 +27,4 @@
   * [Problemfeld Attraktivität für jüngere Menschen](strategie/problemfeld-attraktivitaet-fuer-juengere-menschen.md)
   * [Problemfeld Infrage-Stellen eigener Positionen](strategie/problemfeld-infrage-stellen-eigener-positionen.md)
   * [Problemfeld politische Strategie](strategie/problemfeld-politische-strategie.md)
-
+* [Anhang: Aufgaben](anhang-aufgaben.md)
