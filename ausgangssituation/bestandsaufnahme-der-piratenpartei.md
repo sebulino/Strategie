@@ -13,11 +13,8 @@ Bei der Bundestagswahl 2017 wählten 0,5% der Wähler mit der Zweitstimme die Pi
 
 Bei der Europawahl im Mai 2019 erzielte die Partei 0,7%, so dass Patrick Breyer ins Europaparlament einzog. Dort sitzt er gemeinsam mit drei tschechischen Piraten, [Marcel Kolaja, Markéta Gregorová und Mikuláš Peksa](https://www.piratenpartei.de/2019/06/27/diese-vier-piraten-sind-in-das-europaparlament-eingezogen/).
 
-Bei der Landtagswahl Bürgerschaftswahl in **Bremen** am 26. Mai 2019 wurden die PIRATEN wegen eines angeblichen Fehlers bei der KandidatInnenaufstellung von den Beiratswahlen ausgeschlossen. Der Einspruch der PIRATEN gegen die Beiratswahl wurde zwar (aus formalen Gründen) insgesamt ablehnt aber der Piratenpartei dahingehend in der Sache Recht gegeben, dass es grundsätzlich zulässig gewesen wäre, die KandidatInnen für die Beiräte in einer gemeinsamen Aufstellungsversammlung durch Bremer Mitglieder der Partei wählen zu lassen.
-
-Bei der Landtagswahl in Sachsen am 1. September 2019 erreichten die PIRATEN 0,3% (6.632 Stimmen), in Brandenburg am 1. September 2019 0,7% der Zweitstimmen (8.712 Stimmen) und in Thüringen am 27. Oktober 2019 0,6% (6.066 Stimmen).
-
-Bei der Wahl der Hamburger Bürgerschaft am 23. Februar 2020 erreichten die PIRATEN 0,5% (20.559 Stimmen).
+Bei der Bürgerschaftswahl in **Bremen** am 26. Mai 2019 erreichten die PIRATEN 0,96% (14.143 Stimmen), bei der Landtagswahl in **Sachsen** am 1. September 2019 erreichten die PIRATEN 0,3% (6.632 Stimmen), in **Brandenburg** am 1. September 2019 0,7% der Zweitstimmen (8.712 Stimmen) und in **Thüringen** am 27. Oktober 2019 0,6% (6.066 Stimmen).
+Bei der Wahl der **Hamburger Bürgerschaft** am 23. Februar 2020 erreichten die PIRATEN 0,5% (20.559 Stimmen).
 
 ## Sichtbarkeit nach außen
 
