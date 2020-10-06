@@ -10,5 +10,11 @@ Aufgrund der gesunkenen Mitarbeiterzahl haben wir viele kritische Funktionen, di
 
 Nach dieser Aufgabe kennen wir die „Sollbruchstellen“ der Partei besser und haben können Maßnahmen entwickeln, wie bei einem Ausfall geeignet zeitnah reagiert werden kann. Dies hilft, flüssige Abläufe in der Partei sicher zu stellen.
 
-* [ ] TODO 08 - Abhängigkeiten von Einzelpersonen kennen
+{% hint style="success" %}
+### Aktueller Stand TODO 08:
+
+Das Risiko durch Schnittstellen oder kritischen Funktionen der Partei, die durch einzelne Personen oder Personen mit hohem Zusammenhalt besetzt werden, hat sich maßgeblich gebessert. Auch wenn durch Informationsdefizite ein potentielles Risiko weiterhin besteht, so kann dieses Todo als erledigt betrachtet werden. Nichtsdestotrotz sollte man auch weiterhin wachsam bleiben, um rechtzeitig kritischen Entwicklungen entgegenwirken zu können. 
+
+\(Stand 6.10.2020\)
+{% endhint %}
 
