@@ -26,7 +26,7 @@ Hierbei kommt der Vermittlung der Werte, für die die Piratenpartei steht, eine 
 
 Insgesamt muss eine Positivdefinition der Positionierung der Piratenpartei erfolgen. Da zu wenig bekannt ist, wofür die Piratenpartei steht, führt eine Kommunikationsstrategie, die sich auf Abgrenzung konzentriert ohne eigene Inhalte zu vermitteln, nur zu einem größeren Fragezeichen hinsichtlich dessen, was denn die Piratenpartei wirklich will.
 
-### TODO 01 - Kommunikation
+## TODO 01 - Kommunikation
 
 * Erstellen einer Kommunikations-Strategie bis \_\_\_
 * Besprechen der Strategie mit der BundesPR-Gruppe
@@ -36,6 +36,4 @@ Insgesamt muss eine Positivdefinition der Positionierung der Piratenpartei erfol
 Wenn wir eine klare Kommunikationsstrategie entwickelt haben, dann bedeutet das, dass wir entsprechende Ziele ausformuliert haben und dass es einen eindeutigen Rahmen gibt, der beschreibt wie wir nach außen auftreten. Wir wissen, welche Botschaften wir über welches Medium senden wollen. Damit ist es uns möglich, besser als Partei erkannt zu werden und in den Nachrichten, die wir senden, weniger missverständlich zu sein, auch über die verschiedenen Medien hinweg.
 
 * [ ] **TODO 01 - Kommunikation**
-
-
 

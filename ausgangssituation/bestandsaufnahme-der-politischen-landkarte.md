@@ -18,3 +18,11 @@ Es gibt eine Fülle kleinerer Parteien, die als Glücksritter zu Wahlen antreten
 
 Eine Initiative United4Bundestag versucht, die Aktivisten aus der Klimabewegung mit den Kleinparteien zusammenzubringen und zu vereinen, [da der gemeinsame rechnerische Stimmenanteil über 5% liegt und somit ein Einzug in den Bundestag wahrscheinlich erscheinen würde.](https://youtu.be/2Weu9TV_XQU) Hierfür müsste sich eine Partei als "Container" für die anderen Parteien und Bewegungen anbieten, um so als Partei für die Wahl anzutreten. Alternativ müsste eine neue Partei als Container gegründet werden. Der Zeitdruck beeinflusst das Vorhaben nicht unbedingt positiv, und eine sehr negative Reaktion der die PARTEI auf die Initiative verlangsamt den Prozess, da gerade diese Partei sich besonders als Container eignen würde. 
 
+### Aktuelle Wahlumfrage:
+
+![CDU 36,0%, SPD 14,5%, AfD 11,5%, FDP 6,0%, LINKE 7,0%, GR&#xDC;NE 18,5%, Sonstige 6,5% ](../.gitbook/assets/wahlumfrage-20201006.jpeg)
+
+
+
+
+
