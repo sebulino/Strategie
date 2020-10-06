@@ -20,5 +20,13 @@ Ein solches Projekt wird vermutlich mindestens 12 Monate dauern. Möglicherweise
 
 Wenn dieser Schritt erreicht ist, dann haben wir ein Team mit einer klaren Aufgabe für ein Projekt, das für ein Mindestmaß an geteiltem Wissen sorgt. Damit werden wir mittelfristig weniger Diskussionen über potentielles Grundwissen haben. Gleichzeitig bieten wir damit jedem die Möglichkeit zu politischer Bildung, die für die Parteiarbeit zwingend notwendig ist. Damit wird unsere Arbeit erfolgreicher, da wir besser wissen, was wir tun.
 
-* [ ] TODO 09 - innerparteiliche Bildung
+{% hint style="success" %}
+Aktueller Stand TODO 09:
+
+Die begonnene Initiative für eine [Piratenakademie](http://akademie.piratenpartei.de) hat sich der SG innerparteiliche Bildung angeschlossen und arbeitet kontinuierlich weiter an der Online-Universität. Die ersten Kurse dienen vor allem der Förderung von Teilhabe innerhalb der Piratenpartei - eine Einfürung in die Vielzahl unserer Tools, und eine Einführung für Neumitglieder, die unsere Strukturen und weiteren Besonderheiten erklärt. Da der wichtigste Anstoß geliefert wurde, das nun einer SG übergeben werden konnte und bis auf eine weitergehende motivierende Begleitung seitens des Bundesvorstands nichts weiter zu tun ist, sehen wir die Aufgabe als erledigt an. 
+
+\(Stand 6.10.2020\)
+{% endhint %}
+
+
 
