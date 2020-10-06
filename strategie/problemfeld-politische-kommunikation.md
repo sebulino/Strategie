@@ -16,7 +16,7 @@ Erfahrungsgemäß liegt hierbei die Aufgabe darin, den Mitgliedern klar zu mache
 Diese Aufgabe ist eher als Aufgabe über einen Zeitraum zu verstehen, nicht als Kommunikation zu einem Zeitpunkt. Mit zunehmender Arbeit daran werden die Mitglieder verstehen, dass die thematische Hierarchie vor allem der Erkennbarkeit dient und keiner Wertehierarchie. Je länger und intensiver diese Aufgabe erfüllt wird, umso stärker wird das innerparteiliche Konfliktpotential reduziert. Dies stärkt den innerparteilichen Zusammenhalt und gleichzeitig auch die Wahrnehmung der Partei. Damit wird ihr mehr Glaubwürdigkeit zugeschrieben, Probleme lösen zu können, und nicht sich in Parlamenten mit internen Streitereien zu beschäftigen.
 
 {% hint style="info" %}
-### Aktueller Stand:
+### Aktueller Stand TODO 04:
 
 Erste Planungen zur Erarbeitung einer Vision und Strategie laufen. Eine breite Diskussion hat bisher nicht stattgefunden, da auch seitens des Vorstands bisher keine konkrete Planung dazu ausgearbeitet wurde. 
 
