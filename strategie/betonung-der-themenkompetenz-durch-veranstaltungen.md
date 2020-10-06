@@ -9,5 +9,11 @@ Um die Arbeit an Themenfeldern und insbesondere die priorisierten Themenbereiche
 
 Mit dem Abschluss dieser Aufgabe haben wir eine Gruppe gefunden, die sich um die Verbreitung und Kommunikation unserer Themen im Real Life auseinandersetzt. Wenn diese Gruppe die erste Konferenz organisiert und abgehalten hat, so haben wir bereits mehr Menschen deutlich gemacht, wofür wir stehen, wie wir an Fragestellungen herangehen. Außerdem sind wir als Menschen sichtbar geworden, was die wahrgenommene Kompetenz und das Vertrauen in den meisten Fällen erhöht.
 
-* [ ] TODO 05 - Sichtbarkeit der politischen Arbeit
+{% hint style="info" %}
+Aktueller Stand:
+
+Der Bundesvorstand hat für Veranstaltungen wie Konferenzen und Arbeitskreise ein Budget im Bundeshaushalt zurückgestellt. Durch den Ausbruch der Corona-Pandemie sind Treffen im Real Life, insbesondere zur Vernetzung, nahezu umöglich geworden. Planungen hierzu mussten daher verschoben werden.
+
+\(Stand 6.10.2020\)
+{% endhint %}
 
