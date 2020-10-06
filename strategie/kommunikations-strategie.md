@@ -37,7 +37,7 @@ Insgesamt muss eine Positivdefinition der Positionierung der Piratenpartei erfol
 Wenn wir eine klare Kommunikationsstrategie entwickelt haben, dann bedeutet das, dass wir entsprechende Ziele ausformuliert haben und dass es einen eindeutigen Rahmen gibt, der beschreibt wie wir nach außen auftreten. Wir wissen, welche Botschaften wir über welches Medium senden wollen. Damit ist es uns möglich, besser als Partei erkannt zu werden und in den Nachrichten, die wir senden, weniger missverständlich zu sein, auch über die verschiedenen Medien hinweg.
 
 {% hint style="info" %}
-### Aktueller Stand:
+### Aktueller Stand TODO 01:
 
 Im Rahmen des Bundeshaushalts wurde ein Budget eingerichtet, um ein PR-Konzept erstellen zu lassen. Dieses [wurde ausgeschrieben](https://vorstand.piratenpartei.de/2020/04/19/ausschreibung-pr-konzeption/) und anschließend vergeben. 
 

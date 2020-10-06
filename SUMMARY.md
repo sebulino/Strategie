@@ -27,5 +27,5 @@
   * [Problemfeld Attraktivität für jüngere Menschen](strategie/problemfeld-attraktivitaet-fuer-juengere-menschen.md)
   * [Problemfeld Infrage-Stellen eigener Positionen](strategie/problemfeld-infrage-stellen-eigener-positionen.md)
   * [Problemfeld politische Strategie](strategie/problemfeld-politische-strategie.md)
-* [Anhang: Aufgaben](anhang-aufgaben.md)
+* [Anhang: offene Aufgaben](anhang-aufgaben.md)
 
