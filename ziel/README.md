@@ -1,14 +1,11 @@
 # Ziel
 
-In zwei bis drei Jahren \(2022\) erreicht die Piratenpartei Deutschland auf Bundesebene 2%-3%. Bei der darauffolgenden Bundestagswahl erreicht die Piratenpartei Deutschland ein Ergebnis, das zum Einzug in den Bundestag führt.
+In ein bis zwei Jahren \(2022\) erreicht die Piratenpartei Deutschland auf Bundesebene 2%-3%. Bei der darauffolgenden Bundestagswahl erreicht die Piratenpartei Deutschland ein Ergebnis, das zum Einzug in den Bundestag führt.
 
 Für die Partei besteht damit zum ersten Mal die Möglichkeit, auf Bundesebene als Oppositionspartei am bundesweiten Politikbetrieb teilzunehmen, und beispielsweise in kleinen Anfragen für Transparenz in politischen Entscheidungsprozessen zu sorgen. Mit einer Fraktion im Bundestag ist damit die Entwicklung der Piratenpartei von einer Bewegung und einer Protestpartei aus den frühen Jahren zu einer etablierten kritischen Kraft in der Gesellschaft vollendet und sie ist eine Partei geworden.
 
 Auf Landesebene hat die Piratenpartei Wahlen in
 
-* ~~Brandenburg und Sachsen, September 2019~~
-* Thüringen, Oktober 2019
-* Hamburg, voraussichtlich Frühjahr 2020
 * Baden-Württemberg, voraussichtlich Frühjahr 2021
 * Rheinland-Pfalz, voraussichtlich Frühjahr 2021
 * Sachsen-Anhalt, voraussichtlich Frühjahr 2021
