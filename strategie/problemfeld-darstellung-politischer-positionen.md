@@ -21,8 +21,6 @@ Innerhalb dieser Politikfelder sollten die Positionen weitestgehend konfliktfrei
 
 Nach einer solchen Entscheidung steht fest, dass die Piratenpartei sich als politische Partei versteht. Damit haben wir dann eine Struktur, mit der es uns möglich ist, die vielen Einzellösungen zu gesellschaftlichen Konzepten zusammenzuführen.
 
-* [ ] **TODO 02 - Entscheidung zu Politikfeldern**
-
 ### TODO 03 - Umsetzung der Politikfelder
 
 * Bundesvorstand: Klärung der Aufgaben der Ressortsprecher bis \_\_\_
@@ -34,5 +32,20 @@ Nach einer solchen Entscheidung steht fest, dass die Piratenpartei sich als poli
 
 Wenn dieser Schritt erreicht ist, dann bedeutet das, dass die Arbeit in Ressorts aufgegliedert ist, mit dem Ziel den Menschen konfliktfreie Konzepte für Deutschland und Europa anzubieten. Wir sind dann in der Lage zu erarbeiten, wie die Vision der Piratenpartei sich in den Politikfeldern ausdrückt. Auf diese Weise können wir unser Spezialwissen erhalten, es aber gleichzeitig in die thematischen Fragestellungen der Menschen einarbeiten und den Wählern schlüssige Angebote machen.
 
-* [ ] **TODO 03 - Umsetzung der Politikfelder**
+{% hint style="info" %}
+### Aktueller Stand:
+
+Der Bundesvorstand hat [beschlossen, Wordpress-Seiten einzurichen, auf denen sich die politische Aktivität in einzelnen Politikfeldern der Piratenpartei präsentieren](https://redmine.piratenpartei.de/issues/62228). Diese werden als "Ressorts" bezeichnet. 
+
+Diese Politikfelder sind:  
+[Digitalisierung und Netzpolitik](http://digitaler-wandel.piratenpartei.de), [Außen- und Sicherheitspolitik](https://aussenpolitik.piratenpartei.de), [Arbeits-, Gesundheits- und Sozialpolitik](https://soziales.piratenpartei.de), [Innen- und Europapolitik](http://innenpolitik.piratenpartei.de), [Umwelt-, Energie, Verkehrs- und Landwirtschaftspolitik](https://umweltpolitik.piratenpartei.de), [Wirtschafts-, Finanz- und Haushaltspolitik](https://wirtschaftspolitik.piratenpartei.de), [Bildungs-, Wissenschafts- und Kulturpolitik](https://bildungspolitik.piratenpartei.de). 
+
+Diese Initiative wurde in der Runde der Politischen Geschäftsführer vorgestellt, anschließend wurde eine[ Informations- und Diskussionveranstaltung im Format "Dicker Engel"](https://vorstand.piratenpartei.de/2020/06/29/dicker-engel-politische-arbeit-sichtbarer-machen/) angeboten und mit Interesse wahrgenommen, bei der auch erste Erfahrungen ausgetauscht wurden. Es wurde immer deutlich gemacht, dass es sich hierbei um ein Projekt handelt, das sich entsprechend der Anforderungen und erkannten Schwierigkeiten anpassen wird und hierzu auf Feedback angewiesen ist. Es zeigt sich jedoch, dass insbesondere von seiten der BundesPR Widerstand erfolgt, da man hierin eine Publikationsmöglichkeit sieht, die sich ihrer Kontrolle entzieht. Gegenwerbung, Fehlinformation und mangelhafte Verbreitung der Initiative waren die Folge. 
+
+Bisher sind drei Ressort-Seiten aktiv, weitere sind angelegt und werden mit zunehmendem Inhalt öffentlich geschaltet. Die ersten Erfahrungen der Früh-Starter, die diese Möglichkeit der Sichtbarmachtung aktiv nutzen, waren eine Zunahme der politische Arbeit und Anzahl der aktiven PIRATEN. 
+
+\(Stand 6.10.2020\)
+{% endhint %}
+
+\*\*\*\*
 

@@ -28,12 +28,21 @@ Insgesamt muss eine Positivdefinition der Positionierung der Piratenpartei erfol
 
 ## TODO 01 - Kommunikation
 
-* Erstellen einer Kommunikations-Strategie bis \_\_\_
+* Erstellen einer Kommunikations-Strategie bis Ende Oktober unter Einbindung der bisherigen Aktiven und Betroffenen
+* Präsentation des PR-Konzepts auf dem Bundesparteitag Mitte November
 * Besprechen der Strategie mit der BundesPR-Gruppe
 * Besprechen der Strategie mit den Landes-PolGefs
 * Besprechen der Strategie mit den AGs
 
 Wenn wir eine klare Kommunikationsstrategie entwickelt haben, dann bedeutet das, dass wir entsprechende Ziele ausformuliert haben und dass es einen eindeutigen Rahmen gibt, der beschreibt wie wir nach außen auftreten. Wir wissen, welche Botschaften wir über welches Medium senden wollen. Damit ist es uns möglich, besser als Partei erkannt zu werden und in den Nachrichten, die wir senden, weniger missverständlich zu sein, auch über die verschiedenen Medien hinweg.
 
-* [ ] **TODO 01 - Kommunikation**
+{% hint style="info" %}
+### Aktueller Stand:
+
+Im Rahmen des Bundeshaushalts wurde ein Budget eingerichtet, um ein PR-Konzept erstellen zu lassen. Dieses [wurde ausgeschrieben](https://vorstand.piratenpartei.de/2020/04/19/ausschreibung-pr-konzeption/) und anschließend vergeben. 
+
+Geplant ist, dass bis Ende Oktober dieses Konzept vorliegt, um es dem Bundesparteitag zu präsentieren, erklären und für Zustimmung zu werben.
+
+\(Stand 6.10.2020\)
+{% endhint %}
 
