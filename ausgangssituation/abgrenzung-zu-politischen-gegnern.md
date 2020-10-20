@@ -18,7 +18,7 @@ Da sich das allgemeine Narrativ hin zu den Schwerpunktthemen Ökologie und Nachh
 
 ## Die Linken
 
-Die Linken sind derzeit ein Sammelbecken am linken Rand und stagnieren bzgl der Wählerzahlen. Im Gegensatz zu ihnen ist unser Blick auf den Menschen ein gänzlich anderer. Wir sehen den Menschen als Individuum und stehen für die Ermächtigung des Menschen, sich aus seiner Situation heraus zu verändern, wenn er dies möchte. Für sie gilt das Paradigma „Der Staat zahlt alles.“. Von dieser Partei sehe ich derzeit keine aufsehenerregenden Impulse kommen. Gleichermaßen erscheinen sie ungefährlich, da es mittlerweile kaum Überschneidungen zur Piratenpartei gibt, die zuletzt ihren Schwerpunkt im Digitalen Wandel betonte.
+Die Linken sind derzeit ein Sammelbecken am linken Rand und stagnieren bzgl der Wählerzahlen. Im Gegensatz zu ihnen ist unser Blick auf den Menschen ein gänzlich anderer. Wir sehen den Menschen als Individuum und stehen für die Ermächtigung des Menschen, sich aus seiner Situation heraus zu verändern, wenn er dies möchte. Für sie gilt das Paradigma „Der Staat zahlt alles.“. Von dieser Partei sind gesellschaftlich derzeit keine aufsehenerregenden oder innovativen Impulse zu erwarten. Gleichermaßen erscheinen sie ungefährlich, da es mittlerweile kaum Überschneidungen zur Piratenpartei gibt, die zuletzt ihren Schwerpunkt im Digitalen Wandel betonte.
 
 ## AfD
 
