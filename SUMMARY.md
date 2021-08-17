@@ -17,6 +17,7 @@
 * [Ziel](ziel/README.md)
   * [Gewünschtes Außenbild der Piratenpartei](ziel/gewuenschtes-aussenbild-der-piratenpartei.md)
 * [Strategie](strategie/README.md)
+  * [Vorstandsschulungen](strategie/vorstandsschulungen.md)
   * [Kommunikations-Strategie](strategie/kommunikations-strategie.md)
   * [Problemfeld Darstellung politischer Positionen](strategie/problemfeld-darstellung-politischer-positionen.md)
   * [Problemfeld politische Kommunikation](strategie/problemfeld-politische-kommunikation.md)
