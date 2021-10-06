@@ -19,10 +19,10 @@ Bei der Europawahl im Mai 2019 erzielte die Partei 0,7%, so dass Patrick Breyer 
 ### Kommunalwahlen
 Bei den letzten Kommunalwahlen zeigte sich, dass die gefallene Mitgliederzahl sich in der Sichtbarkeit und Reichweite niederschlägt, was konsequenterweise Auswirkungen auf den Wahlerfolg hat. Sowohl hinsichtlich der Kandidaturen als auch dem Wahlkampf als solchem. In allen Bundesländern traten die PIRATEN in Kommunalwahlen teilweise in großen Städten und ehemaligen Hochburgen nicht an. Wir verloren viele Mandate in kommunalen Parlamenten, grob geschätzt konnte nur ein Drittel der Sitze gehalten werden.
 Beispiele:
-* Nordrhein-Westfalen (9/20) von 56 auf 10 (Stadträte und Kreistage, [Ergebnisse](https://www.wahlergebnisse.nrw/kommunalwahlen/2020/aktuell/a000000kw2000.shtml))
-* Hessen (3/21) von 13 auf vier ([Ergebnisse](https://wahlen-statistik.hessen.de/k\_2021/html/Landesergebnis))
-* Niedersachsen (9/21) in den [Kreisen](https://wahlen-statistik.hessen.de/k\_2021/html/Landesergebnis) von 9 auf 4 und den [Gemeinden](https://www.aktuelle-wahlen-niedersachsen.de/KW2021/GW/000.pdf) von 17 auf 9
-*
+* Nordrhein-Westfalen (9/20) von 56 auf 10 (Stadträte und Kreistage, [Ergebnisse][2])
+* Hessen (3/21) von 13 auf vier ([Ergebnisse][3])
+* Niedersachsen (9/21) in den [Kreisen][4] von 9 auf 4 und den [Gemeinden][5] von 17 auf 9
+
 ### Die nächsten Wahlen
 Die kommenden Wahlen sind vier Landtagswahlen in 2022:
 - 27.3. im Saarland
@@ -67,6 +67,6 @@ Der Twitter-Kanal informiert mit seinen Tweets sowohl über anstehende Veranstal
 
 [1]:	https://www.piratenpartei.de/2019/06/27/diese-vier-piraten-sind-in-das-europaparlament-eingezogen/
 [2]:	https://www.wahlergebnisse.nrw/kommunalwahlen/2020/aktuell/a000000kw2000.shtml
-[3]:	https://wahlen-statistik.hessen.de/k_2021/html/Landesergebnis
-[4]:	https://www.aktuelle-wahlen-niedersachsen.de/KW2021/KW/000.pdf
+[3]:	https://wahlen-statistik.hessen.de/k%5C_2021/html/Landesergebnis
+[4]:	https://wahlen-statistik.hessen.de/k%5C_2021/html/Landesergebnis
 [5]:	https://www.aktuelle-wahlen-niedersachsen.de/KW2021/GW/000.pdf
