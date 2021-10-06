@@ -39,10 +39,7 @@ Wenn wir eine klare Kommunikationsstrategie entwickelt haben, dann bedeutet das,
 {% hint style="info" %}
 ### Aktueller Stand TODO 01:
 
-Im Rahmen des Bundeshaushalts wurde ein Budget eingerichtet, um ein PR-Konzept erstellen zu lassen. Dieses [wurde ausgeschrieben](https://vorstand.piratenpartei.de/2020/04/19/ausschreibung-pr-konzeption/) und anschließend vergeben. 
+Ein Konzept wurde extern erstellt und der Bundesvorstand [hat beschlossen es weiterzuverfolgen](https://redmine.piratenpartei.de/issues/77862). Der Bundesvorstand 15 konstituierte sich erst im Juni, und jede Kommunikation war sofort zwingend an den laufenden Wahlkampf gebunden. Ab Oktober kann im Rahmen dieses Konzeptes weitergearbeitet werden.
 
-Geplant ist, dass bis Ende Oktober dieses Konzept vorliegt, um es dem Bundesparteitag zu präsentieren, erklären und für Zustimmung zu werben.
-
-\(Stand 6.10.2020\)
+\(Stand 6.10.2021\)
 {% endhint %}
-

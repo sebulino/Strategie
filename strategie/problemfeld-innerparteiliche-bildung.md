@@ -10,6 +10,8 @@ Als Liste möglicher Themen bieten sich spontan nachgedacht die folgenden an: Wa
 
 Ein solches Projekt wird vermutlich mindestens 12 Monate dauern. Möglicherweise gibt es bereits früher erste Erfolge mit den ersten Kursen, dennoch sollte man bis zu 18 Monate einplanen. Trotz oder gerade wegen des langen Zeithorizonts halte ich es für wichtig, dieses Thema umgehend zu beginnen. Denn es ist auch gleichzeitig ein Ort, an dem Wissen gespeichert werden kann und auch über die Fluktuation vom Mitgliedern hinaus Lernen in der Organisation ermöglicht.
 
+Die begonnene Initiative für eine [Piratenakademie](http://akademie.piratenpartei.de) hat sich der SG innerparteiliche Bildung angeschlossen und arbeitet kontinuierlich weiter an der Online-Universität. Die ersten Kurse dienen vor allem der Förderung von Teilhabe innerhalb der Piratenpartei - eine Einfürung in die Vielzahl unserer Tools, und eine Einführung für Neumitglieder, die unsere Strukturen und weiteren Besonderheiten erklärt.
+
 ### TODO 09 - innerparteiliche Bildung
 
 * Festlegung einer Themenwunschliste durch den Bundesvorstand bis \_\_\_
@@ -20,13 +22,10 @@ Ein solches Projekt wird vermutlich mindestens 12 Monate dauern. Möglicherweise
 
 Wenn dieser Schritt erreicht ist, dann haben wir ein Team mit einer klaren Aufgabe für ein Projekt, das für ein Mindestmaß an geteiltem Wissen sorgt. Damit werden wir mittelfristig weniger Diskussionen über potentielles Grundwissen haben. Gleichzeitig bieten wir damit jedem die Möglichkeit zu politischer Bildung, die für die Parteiarbeit zwingend notwendig ist. Damit wird unsere Arbeit erfolgreicher, da wir besser wissen, was wir tun.
 
-{% hint style="success" %}
+{% hint style="warning" %}
 Aktueller Stand TODO 09:
 
-Die begonnene Initiative für eine [Piratenakademie](http://akademie.piratenpartei.de) hat sich der SG innerparteiliche Bildung angeschlossen und arbeitet kontinuierlich weiter an der Online-Universität. Die ersten Kurse dienen vor allem der Förderung von Teilhabe innerhalb der Piratenpartei - eine Einfürung in die Vielzahl unserer Tools, und eine Einführung für Neumitglieder, die unsere Strukturen und weiteren Besonderheiten erklärt. Da der wichtigste Anstoß geliefert wurde, das nun einer SG übergeben werden konnte und bis auf eine weitergehende motivierende Begleitung seitens des Bundesvorstands nichts weiter zu tun ist, sehen wir die Aufgabe als erledigt an. 
+Wegen Aufgaben höherer Priorität musste die Entwicklung hintenan gestellt werden, so dass es in den letzten Quartalen keine Weiterentwicklung wir gewünscht gab. Hier wäre es gut, wenn mit entsprechend mehr Unterstützung die Initiative wieder angestoßen werden kann.
 
-\(Stand 6.10.2020\)
+\(Stand 6.10.2021\)
 {% endhint %}
-
-
-

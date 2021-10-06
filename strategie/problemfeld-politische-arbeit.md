@@ -15,35 +15,15 @@ Wenn dieser Schritt erreicht ist, dann werden die AGs klar abgesteckt haben, was
 
 Eine weitere derzeitige Schwäche ist die Unklarheit für insbesondere neue Mitglieder, wo politische Arbeit stattfindet. Häufig ist unklar, wohin sich Mitglieder wenden müssen. Einigkeit sollte erneut darüber hergestellt werden, dass diese an die AGs verwiesen werden, bzw. wo es keine oder nur inaktive AGs gibt, sich diese an die politischen Geschäftsführer der Gliederung oder des Bundes wenden.
 
-Darüber hinaus sollte Klarheit über den Weg der politischen Meinungsbildung in der Partei erreicht werden. Der Ort hierfür sind die Arbeitsgemeinschaften und Ressorts. Um die Rolle der AGs und Ressorts zu stärken sollte etabliert werden, dass thematische Anträge von der AG oder dem Ressort gestellt werden. Mindestens sollte eindeutig sein, ob ein Antrag die inhaltliche Zustimmung der AG bzw. des Ressorts erhält. Dies dient zum einen der Prüfung auf faktische Korrektheit und zum anderen der Einordnung in die aktuelle politische Ausrichtung des Programms. Dazu gehört auch, dass thematische Anträge bei Mitgliederversammlungen von den AGs und Ressorts begutachtet werden. Diese haben anschließen zwei Wochen Zeit, eine eigene Stellungnahme oder einen Gegenantrag zu entwickeln.
+Darüber hinaus sollte Klarheit über den Weg der politischen Meinungsbildung in der Partei erreicht werden. Der Ort hierfür sind die Arbeitsgemeinschaften und Ressorts. Um die Rolle der AGs und Ressorts zu stärken sollte etabliert werden, dass thematische Anträge von der AG oder dem Ressort gestellt werden. Mindestens sollte eindeutig sein, ob ein Antrag die inhaltliche Zustimmung der AG bzw. des Ressorts erhält. Dies dient zum einen der Prüfung auf faktische Korrektheit und zum anderen der Einordnung in die aktuelle politische Ausrichtung des Programms. Dazu gehört auch, dass thematische Anträge bei Mitgliederversammlungen von den AGs und Ressorts begutachtet werden. Diese haben anschließen zwei Wochen Zeit, eine eigene Stellungnahme oder einen Gegenantrag zu entwickeln. 
 
-### TODO 07 - Ort der politischen Arbeit
-
-* Festlegung seitens des Bundesvorstands bis \_\_\_
-* Diskussion mit der Antragskommission bis \_\_\_
-* Satzungsänderungsantrag ausarbeiten bis \_\_\_
-
-Mit diesem Satzungsänderungsantrag erreichen wir, dass jeder Pirat weiß, wo er inhaltliche Antworten zu bestimmten Fragestellungen bekommt, und wo er sich selbst aufgrund eigenen Interesses, oder weil er bereits Fachwissen hat, einbringen kann.
-
-Mit Annahme eines solchen Antrags haben wir ebenso entschieden, dass unsere Programmarbeit weniger widersprüchlich ist und würdigen damit die Arbeit der Arbeitsgruppen und Ressorts.
 
 {% hint style="info" %}
 ### Aktueller Stand TODO 06:
 
-Bisher hat nur mit wenigen AGs eine Diskussion stattgefunden, um sich über Ziele auszutauschen. Dies muss definitiv noch geleistet werden. Durch die Einrichtung von Ressorts haben hier die Arbeitsgemeinschaften nun aber die Rahmenbedingungen, um hier nach eigenem Ermessen und eigener Kreativität ihre Arbeit zu präsentieren. Damit ist ein erster wichtiger Schritt gemacht. Die Sichtbarkeit der AGs wird damit zunehmen, und damit auch eine Antwort gegeben, wohin sich Interessenten wenden können, wenn sie mitarbeiten möchten. 
+Bisher hat nur mit wenigen AGs eine Diskussion stattgefunden, um sich über Ziele auszutauschen. Dies muss definitiv noch geleistet werden. Durch die Einrichtung von Ressorts haben hier die Arbeitsgemeinschaften nun aber die Rahmenbedingungen, um hier nach eigenem Ermessen und eigener Kreativität ihre Arbeit zu präsentieren. Damit ist ein erster wichtiger Schritt gemacht. Die Sichtbarkeit der AGs wird damit zunehmen, und damit auch eine Antwort gegeben, wohin sich Interessenten wenden können, wenn sie mitarbeiten möchten.
 
-Durch die Möglichkeit auf dem Bundesparteitag Konkurrenzanträge nach Ablauf der ersten Antragsfrist zu stellen, haben die Arbeitsgemeinschaften nun auch die Gelegenheit, ihre gegebenenfalls abweichende Meinung zum Ausdruck zu bringen, und sich so als Kompetenzzentrum in der Partei sichtbarzumachen und zu beweisen. 
+Durch die Möglichkeit auf dem Bundesparteitag Konkurrenzanträge nach Ablauf der ersten Antragsfrist zu stellen, haben die Arbeitsgemeinschaften nun auch die Gelegenheit, ihre gegebenenfalls abweichende Meinung zum Ausdruck zu bringen, und sich so als Kompetenzzentrum in der Partei sichtbar zu machen und zu beweisen.
 
-\(Stand 6.10.2020\)
+\(Stand 6.10.2021\)
 {% endhint %}
-
-
-
-{% hint style="success" %}
-### Aktueller Stand TODO 07:
-
-Ein Satzungsänderungsantrag um die Arbeitsgemeinschaften oder Ressorts organisatorisch fester zu etablieren, erscheint zu diesem Zeitpunkt nicht notwendig. Vielmehr ist der Weg über die innerparteiliche Bildung einfacher und näher am Mitglied. 
-
-\(Stand 6.10.2020\)
-{% endhint %}
-

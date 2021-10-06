@@ -17,6 +17,3 @@ Auf jeden Fall muss unterschieden werden, was wir wirklich in einem Programm bra
 * Unterstützung des Teams
 
 Nachdem diese Aufgabe erledigt wurde, haben wir ein eindeutiges und schlüssiges Programm, das sowohl parteiintern als auch -extern deutlich macht, wofür wir PIRATEN stehen und was wir wollen. Wir haben den Ressorts und Arbeitsgemeinschaften ein Mittel an die Hand gegeben, mit Positionspapieren ihre Kompetenz zu zeigen und auch erklärend darzulegen. Gleichzeitig haben sie so die Möglichkeit, auch zwischen Bundesparteitagen diese Positionspapiere zu aktualisieren, um sie an aktuelle Begebenheiten oder die Veränderung juristischer Rahmenbedingungen anzupassen.
-
-* [ ] TODO 11 - Überarbeitung des Programms
-

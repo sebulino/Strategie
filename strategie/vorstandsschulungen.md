@@ -4,11 +4,11 @@ Neben Schulungen in Datenschutz sollten Vorstände die Möglichkeit bekommen, da
 
 ### Schulungen über Formalkram
 
-* Wie beantrage ich einen Infostand und wo. 
-* Was kostet er oder auch nicht. 
-* Was muss ich bei einer Wahl machen. Welche Fristen gibt est etc.!
+* Wie beantrage ich einen Infostand und wo.
+* Was kostet er oder auch nicht.
+* Was muss ich bei einer Wahl machen. Welche Fristen gibt es, etc.!
 * Schnittstellen zur nächsthöheren Gliederung
-* Schnittstellen zur untergeorneten Gliederung
+* Schnittstellen zur untergeordneten Gliederung
 
 ### Führung
 
@@ -18,9 +18,4 @@ Neben Schulungen in Datenschutz sollten Vorstände die Möglichkeit bekommen, da
 
 ### Mitgliederbetreuung
 
-* Umgang mit neumitgliedern, Mentoship
-
-
-
-
-
+* Umgang mit Neumitgliedern, Mentorship

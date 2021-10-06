@@ -1,7 +1,7 @@
 # Stärken-Schwächen-Analyse - extern
 
 {% hint style="warning" %}
-Arbeitshinweis: Hierfür sind nur die Aussagen Partei-Externer zu verwenden! Keine Spekulation von Piraten, egal ob BuVo oder Basismitglieder.
+Hierzu sollte zeitnah eine Umfrage beauftragt werden.
 {% endhint %}
 
 ## Stärken
@@ -44,4 +44,3 @@ Arbeitshinweis: Hierfür sind nur die Aussagen Partei-Externer zu verwenden! Kei
 * Übernahme aller Themen durch andere Parteien
 * Gesetzesänderungen, die einen Einzug in Parlamente erschweren
 * Gründung einer neuen Partei, die zum Abwandern von Mitgliedern führt
-

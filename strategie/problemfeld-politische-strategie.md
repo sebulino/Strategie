@@ -22,6 +22,3 @@ Wenn wir dies diesen Schritt erreicht haben, dann wissen wir besser, warum wir e
 Das bedeutet, dass wir uns dann besser auf die Themen konzentrieren, in denen wir wachsen wollen und nachhaltiger politisch arbeiten. Es stärkt uns im Bewusstsein, für ein größeres Ziel zu arbeiten, als die kurzfristige PM.
 
 Damit ist es dann möglich, mit einer klaren Abwägung unsere Position innerhalb es Parteienspektrums zu festigen und uns als nachhaltig und langfristig arbeitende politische Partei den Menschen zu präsentieren.
-
-* [ ] TODO 12 - Bewusste Entscheidung über politische Strategie
-
